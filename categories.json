@@ -1,0 +1,110 @@
+﻿[
+    {
+        "culture": "Avoine",
+        "categories": "Cereales"
+    },
+    {
+        "culture": "BetteraveRouge",
+        "categories": "Fruit-Et-legumes"
+    },
+    {
+        "culture": "Blé dur",
+        "categories": "Cereales"
+    },
+    {
+        "culture": "Blé tendre",
+        "categories": "Cereales"
+    },
+    {
+        "culture": "Carotte",
+        "categories": "Fruit-Et-legumes"
+    },
+    {
+        "culture": "Cereale",
+        "categories": "Cereales"
+    },
+    {
+        "culture": "Choux",
+        "categories": "Fruit-Et-legumes"
+    },
+    {
+        "culture": "Colza",
+        "categories": "oléo-protéagineux"
+    },
+    {
+        "culture": "Cultures",
+        "categories": "Categ_Cultures"
+    },
+    {
+        "culture": "Epautre",
+        "categories": "Cereales"
+    },
+    {
+        "culture": "Feve",
+        "categories": "oléo-protéagineux"
+    },
+    {
+        "culture": "FruitRouge",
+        "categories": "Fruit-Et-legumes"
+    },
+    {
+        "culture": "GramineFleur",
+        "categories": "Autres"
+    },
+    {
+        "culture": "GramineFourragere",
+        "categories": "Autres"
+    },
+    {
+        "culture": "IconeImage",
+        "categories": "Autres"
+    },
+    {
+        "culture": "LegumeBulbe",
+        "categories": "Fruit-Et-legumes"
+    },
+    {
+        "culture": "Lin",
+        "categories": "oléo-protéagineux"
+    },
+    {
+        "culture": "Luzerne",
+        "categories": "oléo-protéagineux"
+    },
+    {
+        "culture": "Mais",
+        "categories": "Cereales"
+    },
+    {
+        "culture": "Moutarde",
+        "categories": "oléo-protéagineux"
+    },
+    {
+        "culture": "Orge",
+        "categories": "Cereales"
+    },
+    {
+        "culture": "Phacelie",
+        "categories": "Autres"
+    },
+    {
+        "culture": "Pois",
+        "categories": "oléo-protéagineux"
+    },
+    {
+        "culture": "PommeDeTerre",
+        "categories": "Fruit-Et-legumes"
+    },
+    {
+        "culture": "Seigle",
+        "categories": "Cereales"
+    },
+    {
+        "culture": "Soja",
+        "categories": "ol?o-prot?agineux"
+    },
+    {
+        "culture": "Tournesol",
+        "categories": "ol?o-prot?agineux"
+    }
+]
